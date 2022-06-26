@@ -6,5 +6,6 @@ To-Do Learn Upan
 -Javascript}|
  *Bikin Project Dari Html,Css,PHP dan Javascript
 -Python
+ *Bikin game
 -Java
  *Netbeans

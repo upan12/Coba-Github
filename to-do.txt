@@ -5,6 +5,7 @@ To-Do Learn Upan
 -PHP}|
 -Javascript}|
  *Bikin Project Dari Html,Css,PHP dan Javascript
+ *Bikin Web Dinamis
 -Python
 -Java
  *Netbeans

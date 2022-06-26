@@ -8,5 +8,6 @@ To-Do Learn Upan
  *Bikin Project Dari Html,Css,PHP dan Javascript
  *Bikin Web Dinamis
 -Python
+ *Bikin game
 -Java
  *Netbeans

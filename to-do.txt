@@ -4,6 +4,7 @@ To-Do Learn Upan
 -CSS}|
 -PHP}|
 -Javascript}|
-*Bikin Project Dari Html,Css,PHP dan Javascript
+ *Bikin Project Dari Html,Css,PHP dan Javascript
 -Python
 -Java
+ *Netbeans
